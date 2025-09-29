@@ -1,5 +1,8 @@
 # DriFit: In-Car Driver Health & Fatigue Monitoring
 
+## Live Demo
+Visit the live application at: [https://rodolphethinks.github.io/gaiaview/](https://rodolphethinks.github.io/gaiaview/)
+
 DriFit is a real-time driver monitoring system that uses computer vision and machine learning to track driver health metrics and detect signs of fatigue. It uses modern web technologies to provide a responsive and reliable monitoring solution.
 
 ## Features
