@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+streamlit
+numpy
+scipy
+pandas
+altair

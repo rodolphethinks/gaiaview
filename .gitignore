@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# i-3d folder
+i-3d/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
